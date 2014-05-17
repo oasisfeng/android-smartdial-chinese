@@ -1,5 +1,6 @@
 <resources>
 
     <string name="app_name">智能拨号 - T9拼音</string>
+    <string name="description">让Android或Google原生电话应用的智能拨号特性支持T9拼音。\n注意：激活并重启后须清除一次原生电话应用的数据以便重建索引。</string>
 
 </resources>
